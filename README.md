@@ -21,6 +21,9 @@ Links úteis e fontes:
 - [Bastter.com - Bonificação Again](https://www.bastter.com/mercado/grupos/Forum.aspx?g=184&t=732846)
 - [AbacusLiquid.com - Bonificação de Ações no Imposto de Renda 2019](https://abacusliquid.com/bonificacao-de-acoes/)
 - [Investindo.org - Como declarar bonificações de ações no Imposto de Renda?](http://www.investindo.org/acoes/imposto-de-renda/bonificacao/)
+- [Investindo.org - Como declarar Agrupamento e Desdobramento de Ações no Imposto de Renda?](http://www.investindo.org/acoes/imposto-de-renda/agrupamento-e-desdobramento/)
+- [BussulaDoInvestidor.com.br - Guia do Imposto de Renda em Ações](https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-acoes/)
+- [AbacusLiquid.com - Como declarar ações?](https://abacusliquid.com/irpf/como-declarar-acoes/)
 
 ### Bens e Direitos
 
@@ -67,6 +70,10 @@ Além disso, o valor e a quantidade bonificada devem ser incluídos como uma ope
 Caso a bonificação resulte numa quantidade fracionada de ações (por exemplo, 13,75), a fração será leiloada pela empresa e creditada na sua conta na corretora. Para declarar, informe o valor recebido em `Rendimentos Isentos e Não Tributáveis` item `26 - Outros`.
 
 Informar o nome (razão social) da empresa, o CNPJ, uma descrição como `Venda residual de ações bonificadas NOME DA EMPRESA` e o valor recebido.
+
+### Desdobramentos e Agrupamentos
+
+Em casos de desdobramentos e agrupamentos o valor total das ações não é alterado. Porém a alteração da quantidade de ações desdobramento ou agrupamento deve ser incluído na discriminação da ação em `Bens e Direitos` porque altera o valor médio.
 
 ### Venda (Swing Trade)
 
