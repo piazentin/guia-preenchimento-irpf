@@ -17,6 +17,7 @@ Links úteis
 - [Exame - Como declarar ações no imposto de renda](https://exame.abril.com.br/seu-dinheiro/como-declarar-acoes-no-imposto-de-renda/)
 - [Rico.com.vc - Como Declarar Ações no IR e as Dúvidas mais Comuns](https://blog.rico.com.vc/como-declarar-acoes-ir)
 - [Clear.com.br - Como declarar ações no Imposto de Renda 2019: 7 passos simples](https://blog.clear.com.br/aprenda-como-declarar-acoes-no-imposto-de-renda/)
+- [Exame - Como declarar no IR dividendos e juros sobre capital próprio](https://exame.abril.com.br/seu-dinheiro/como-declarar-no-ir-dividendos-e-juros-sobre-capital-proprio/)
 
 ### Bens e Direitos
 
@@ -40,11 +41,11 @@ Juros sobre capital próprio são sujeitos a uma alíquota de 15%, mas são reti
 
 Devem ser declarados em `Rendimentos Sujeitos à Tributação Exclusiva/Definitiva` item `10. Juros sobre capital próprio`.
 
-Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o valor recebido.
+Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o valor recebido (incluindo *creditados e não pagos*).
 
-#### Créditos em Trânsito
+#### Créditos em Trânsito / Creditados e não pagos
 
-Para juros sobre capital próprio que foram declarados pela empresa mas ainda não foram pagos, informar na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`, informar o valor, e informar na descrição `Direito de crédito contra a pessoa jurídica` com o nome da empresa, o CNPJ e o valor dos juros.
+Para juros sobre capital próprio que foram declarados pela empresa mas ainda não foram pagos, informar na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`, informar o valor, e informar na descrição `Direito de crédito contra a pessoa jurídica, juros sobre capital creditados e não pagos` com o nome da empresa, o CNPJ e o valor dos juros.
 
 ### Venda (Swing Trade)
 
