@@ -47,6 +47,24 @@ Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o
 
 Para juros sobre capital próprio que foram declarados pela empresa mas ainda não foram pagos, informar na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`, informar o valor, e informar na descrição `Direito de crédito contra a pessoa jurídica, juros sobre capital creditados e não pagos` com o nome da empresa, o CNPJ e o valor dos juros.
 
+### Bonificação
+
+No caso de bonificação para as ações de uma empresa, declarar em `Rendimentos Isentos e Não Tributáveis` item `18 - Incorporação de Reservas ao Capital / Bonificação de Ações`.
+
+Inserir o CNPJ, o nome (razão social) da empresa, e o valor da bonificação. 
+
+O valor deve ser calculado usando a quantidade inteira de ações bonificadas (por exemplo, se a bonificação for de 13,75 ações, usar 13) vezes o valor informado o valor unitário atribuído às ações bonificadas. Esse valor é informado pela empresa emissora das bonificações em um fato relevante. Exemplo: para uma bonificação de 13,75 com valor 12,7069 o calculo deve ser `13 * 12,7069 = 165.1897` e o valor informado de 165,18.
+
+Os fatos relevantes de uma empresa podem ser consultados no site da B3.
+
+Além disso, o valor e a quantidade bonificada devem ser incluídos como uma operação na discriminação da ação correspondente em `Bens e Direitos`.
+
+#### Frações de ações bonificadas
+
+Caso a bonificação resulte numa quantidade fracionada de ações (por exemplo, 13,75), a fração será leiloada pela empresa e creditada na sua conta na corretora. Para declarar, informe o valor recebido em `Rendimentos Isentos e Não Tributáveis` item `26 - Outros`.
+
+Informar o nome (razão social) da empresa, o CNPJ, uma descrição como `Venda residual de ações bonificadas NOME DA EMPRESA` e o valor recebido.
+
 ### Venda (Swing Trade)
 
 TODO
