@@ -1,5 +1,15 @@
 # Guia de preenchimento do IRPF
 
+Guia simples passo-a-passo para o preenchimento da declaração de IRPF.
+
+## Termos de Responsabilidade e Avisos Legais
+
+**Os autor(es) se isenta(m) totalmente de qualquer responsabilidade sobre o uso do conteúdo desse documento e o uso das informações aqui descritas para quaisquer fins.**
+
+O uso das informações aqui descrito é de uso pessoal dos autor(es) e o(s) autor(es) não se responsabilizam por quaisquer danos, sem limitação, sendo eles diretos, indiretos, incidentais, consequentes ou especiais, alegadamente causados pelo uso ou acesso informações aqui descritas. Também não há nenhuma garantia sobre a disponibilidade, a exatidão ou a obsolescência das informações.
+
+Links para sites de terceiros não constituem necessariamente aprovação ou concordância em relação a eles ou aos seus conteúdos. O(s) autor(es) não se responsabiliza(m) por eles.
+
 ## Ações
 
 Links úteis
