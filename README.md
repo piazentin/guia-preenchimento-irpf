@@ -12,12 +12,15 @@ Links para sites de terceiros não constituem necessariamente aprovação ou con
 
 ## Ações
 
-Links úteis
+Links úteis e fontes:
 
 - [Exame - Como declarar ações no imposto de renda](https://exame.abril.com.br/seu-dinheiro/como-declarar-acoes-no-imposto-de-renda/)
 - [Rico.com.vc - Como Declarar Ações no IR e as Dúvidas mais Comuns](https://blog.rico.com.vc/como-declarar-acoes-ir)
 - [Clear.com.br - Como declarar ações no Imposto de Renda 2019: 7 passos simples](https://blog.clear.com.br/aprenda-como-declarar-acoes-no-imposto-de-renda/)
 - [Exame - Como declarar no IR dividendos e juros sobre capital próprio](https://exame.abril.com.br/seu-dinheiro/como-declarar-no-ir-dividendos-e-juros-sobre-capital-proprio/)
+- [Bastter.com - Bonificação Again](https://www.bastter.com/mercado/grupos/Forum.aspx?g=184&t=732846)
+- [AbacusLiquid.com - Bonificação de Ações no Imposto de Renda 2019](https://abacusliquid.com/bonificacao-de-acoes/)
+- [Investindo.org - Como declarar bonificações de ações no Imposto de Renda?](http://www.investindo.org/acoes/imposto-de-renda/bonificacao/)
 
 ### Bens e Direitos
 
