@@ -51,7 +51,7 @@ Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o
 
 #### Créditos em Trânsito / Creditados e não pagos
 
-Para juros sobre capital próprio que foram declarados pela empresa mas ainda não foram pagos, informar na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`, informar o valor, e informar na descrição `Direito de crédito contra a pessoa jurídica, juros sobre capital creditados e não pagos` com o nome da empresa, o CNPJ e o valor dos juros.
+Para juros sobre capital próprio que foram declarados pela empresa, mas ainda não foram pagos, informar na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`, informar o valor, e informar na descrição `Direito de crédito contra a pessoa jurídica, juros sobre capital creditados e não pagos` com o nome da empresa, o CNPJ e o valor dos juros.
 
 ### Bonificação
 
@@ -73,7 +73,7 @@ Informar o nome (razão social) da empresa, o CNPJ, uma descrição como `Venda 
 
 ### Desdobramentos e Agrupamentos
 
-Em casos de desdobramentos e agrupamentos o valor total das ações não é alterado. Porém a alteração da quantidade de ações desdobramento ou agrupamento deve ser incluído na discriminação da ação em `Bens e Direitos` porque altera o valor médio.
+Em casos de desdobramentos e agrupamentos o valor total das ações não é alterado. Porém a alteração da quantidade de ações desdobramento ou agrupamento deve ser incluída na discriminação da ação em `Bens e Direitos` porque altera o valor médio.
 
 ### Venda (Swing Trade)
 
