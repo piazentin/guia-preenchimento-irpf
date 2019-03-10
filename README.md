@@ -56,11 +56,11 @@ No caso de bonificação para as ações de uma empresa, declarar em `Rendimento
 
 Inserir o CNPJ, o nome (razão social) da empresa, e o valor da bonificação. 
 
-O valor deve ser calculado usando a quantidade inteira de ações bonificadas (por exemplo, se a bonificação for de 13,75 ações, usar 13) vezes o valor informado o valor unitário atribuído às ações bonificadas. Esse valor é informado pela empresa emissora das bonificações em um fato relevante. Exemplo: para uma bonificação de 13,75 com valor 12,7069 o calculo deve ser `13 * 12,7069 = 165.1897` e o valor informado de 165,18.
+O valor deve ser calculado usando a quantidade inteira de ações bonificadas (por exemplo, se a bonificação for de 13,75 ações, usar 13) vezes o valor informado o valor unitário atribuído às ações bonificadas. Esse valor é informado pela empresa emissora das bonificações em um fato relevante. Exemplo: para uma bonificação de 13,75 com valor 12,7069 o cálculo deve ser `13 * 12,7069 = 165.1897` e o valor informado de 165,18.
 
 Os fatos relevantes de uma empresa podem ser consultados no site da B3.
 
-Além disso, o valor e a quantidade bonificada devem ser incluídos como uma operação na discriminação da ação correspondente em `Bens e Direitos`.
+Além disso, o valor e a quantidade bonificada devem ser incluídos como uma operação na discriminação da ação correspondente em `Bens e Direitos` e incluído no valor total calculado do bem. A bonificação afeta o preço médio da ação.
 
 #### Frações de ações bonificadas
 
