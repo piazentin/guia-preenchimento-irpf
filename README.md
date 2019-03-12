@@ -1,12 +1,12 @@
 # Guia de preenchimento do IRPF
 
-Guia simples passo-a-passo para o preenchimento da declaração de IRPF.
+Guia simples passo a passo para o preenchimento da declaração de IRPF.
 
 ## Termos de Responsabilidade e Avisos Legais
 
-**Os autor(es) se isenta(m) totalmente de qualquer responsabilidade sobre o uso do conteúdo desse documento e o uso das informações aqui descritas para quaisquer fins.**
+**Os autor(es) se isenta(m) totalmente de qualquer responsabilidade sobre o uso do conteúdo e informações contidas nesse documentos para quaisquer fins e meios.**
 
-O uso das informações aqui descrito é de uso pessoal dos autor(es) e o(s) autor(es) não se responsabilizam por quaisquer danos, sem limitação, sendo eles diretos, indiretos, incidentais, consequentes ou especiais, alegadamente causados pelo uso ou acesso informações aqui descritas. Também não há nenhuma garantia sobre a disponibilidade, a exatidão ou a obsolescência das informações.
+As as informações aqui descritas são de uso pessoal dos autor(es) e o(s) autor(es) não se responsabilizam por quaisquer danos, sem limitação, sendo eles diretos, indiretos, incidentais, consequentes ou especiais, alegadamente causados pelo uso ou acesso as informações aqui descritas. Também não há nenhuma garantia sobre a disponibilidade, a exatidão ou a obsolescência das informações.
 
 Links para sites de terceiros não constituem necessariamente aprovação ou concordância em relação a eles ou aos seus conteúdos. O(s) autor(es) não se responsabiliza(m) por eles.
 
@@ -27,9 +27,9 @@ Links úteis e fontes:
 
 ### Bens e Direitos
 
-Ações são consideradas bens e devem ser informadas em `Bens e Direitos`, menu `Fichas da Declaração` com o código `31 - Ações`.
+Ações são consideradas bens e devem ser informadas em `Bens e Direitos` com o código `31 - Ações`.
 
-Informar para cada companhia / ação: a empresa, o CNPJ, a quantidade de ações que possui e o valor de custo. Para cada operação realizada no ano, informar também no campo discriminação a quantidade de ações da operação, o tipo de operação (compra ou venda), o valor da operação (incluindo custos de corretagem), e a data da operação.
+Informar para cada companhia / ação: a empresa, o CNPJ, a quantidade de ações que possui e o valor total de custo. Para cada operação realizada no ano, informar também no campo discriminação a quantidade de ações da operação, o tipo de operação (compra ou venda), o valor da operação (incluindo custos de corretagem), e a data da operação.
 
 O valor final do bem deve ser o valor anterior mais a soma das operações realizadas no ano. **Não atualize o preço das ações pela sua cotação no último dia do ano. O importante é o valor total pago pelas ações, e não o valor de venda atual!**
 
@@ -39,7 +39,7 @@ Dividendos distribuídos pelas empresas são isentos.
 
 Devem ser declarados em `Rendimentos Isentos e Não Tributáveis` item `09. Lucros e dividendos recebidos`.
 
-Informar para cada companhia / ação: a soma de todos os dividendos, a fonte pagadora, o CNPJ e o valor distribuído a título de participação nos lucros.
+Informar para cada companhia / ação: a soma de todos os dividendos, a fonte pagadora, o CNPJ, e o valor distribuído a título de participação nos lucros.
 
 ### Juros sobre capital próprio (JCP)
 
@@ -51,7 +51,7 @@ Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o
 
 #### Créditos em Trânsito / Creditados e não pagos
 
-Para juros sobre capital próprio que foram declarados pela empresa, mas ainda não foram pagos, informar na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`, informar o valor, e informar na descrição `Direito de crédito contra a pessoa jurídica, juros sobre capital creditados e não pagos` com o nome da empresa, o CNPJ e o valor dos juros.
+Juros sobre capital próprio que foram declarados pela empresa, mas ainda não foram pagos devem ser informados na ficha `Bens e Direitos` com o código `99 - Outros bens e direitos`. Informar o valor, e na descrição `Direito de crédito contra a pessoa jurídica, juros sobre capital creditados e não pagos` com o nome da empresa, o CNPJ, e o valor dos juros.
 
 ### Bonificação
 
@@ -59,7 +59,7 @@ No caso de bonificação para as ações de uma empresa, declarar em `Rendimento
 
 Inserir o CNPJ, o nome (razão social) da empresa, e o valor da bonificação. 
 
-O valor deve ser calculado usando a quantidade inteira de ações bonificadas (por exemplo, se a bonificação for de 13,75 ações, usar 13) vezes o valor informado o valor unitário atribuído às ações bonificadas. Esse valor é informado pela empresa emissora das bonificações em um fato relevante. Exemplo: para uma bonificação de 13,75 com valor 12,7069 o cálculo deve ser `13 * 12,7069 = 165.1897` e o valor informado de 165,18.
+O valor deve ser calculado usando a quantidade inteira de ações bonificadas (por exemplo, se a bonificação for de 13,75 ações, usar 13) vezes o valor unitário atribuído às ações bonificadas. Esse valor é informado pela empresa emissora das bonificações em um *fato relevante*. Exemplo: para uma bonificação de 13,75 com valor 12,7069 o cálculo feito deve ser `13 * 12,7069 = 165.1897`, com o valor informado de bonificação de 165,18.
 
 Os fatos relevantes de uma empresa podem ser consultados no site da B3.
 
@@ -69,11 +69,11 @@ Além disso, o valor e a quantidade bonificada devem ser incluídos como uma ope
 
 Caso a bonificação resulte numa quantidade fracionada de ações (por exemplo, 13,75), a fração será leiloada pela empresa e creditada na sua conta na corretora. Para declarar, informe o valor recebido em `Rendimentos Isentos e Não Tributáveis` item `26 - Outros`.
 
-Informar o nome (razão social) da empresa, o CNPJ, uma descrição como `Venda residual de ações bonificadas NOME DA EMPRESA` e o valor recebido.
+Informar o nome (razão social) da empresa, o CNPJ, uma descrição como `Venda residual de ações bonificadas NOME DA EMPRESA`, e o valor recebido.
 
 ### Desdobramentos e Agrupamentos
 
-Em casos de desdobramentos e agrupamentos o valor total das ações não é alterado. Porém a alteração da quantidade de ações desdobramento ou agrupamento deve ser incluída na discriminação da ação em `Bens e Direitos` porque altera o valor médio.
+Em casos de desdobramentos e agrupamentos o valor total das ações não é alterado. Porém a alteração da quantidade de ações causada pelo desdobramento ou agrupamento deve ser incluída na discriminação da ação em `Bens e Direitos` porque altera o preço médio das ações.
 
 ### Venda (Swing Trade)
 
