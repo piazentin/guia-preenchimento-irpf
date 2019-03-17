@@ -93,7 +93,13 @@ TODO
 
 ## Aluguel
 
-TODO
+Links úteis e fontes:
+
+- [Gazeta do Povo - Quem não declara rendimento ou despesa com aluguel pode cair na malha fina](https://www.gazetadopovo.com.br/economia/livre-iniciativa/quem-nao-declara-rendimento-ou-despesa-com-aluguel-pode-cair-na-malha-fina-5lfm0n0kntycgs5e5ibf3kint/)
+
+### Despesa com aluguel
+
+Declarar em `Pagamentos Efetuados` com código `70 - Aluguéis de Imóveis`. Informar o CPF e o nome do locador e a soma total dos aluguéis pagos no ano. **O que deve ser informado são os dados do locador, não os da imobiliária ou administradora do imóvel.**
 
 ## Rendimentos do Trabalho Assalariado (Emprego CLT)
 
