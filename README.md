@@ -104,3 +104,13 @@ Declarar em `Pagamentos Efetuados` com código `70 - Aluguéis de Imóveis`. Inf
 ## Rendimentos do Trabalho Assalariado (Emprego CLT)
 
 TODO
+
+## Plano de Saúde
+
+O plano de saúde deve ser informado em `Pagamentos Efetuados` com código `26 - Planos de Saúde no Brasil` com a razão social e o CPNJ da operadora do plano e o valor total pago pelo contribuinte. Caso a empresa pague uma parte do plano, o valor total pago deve ser o total pago pelo contribuinte e o valor reembolsado deve ser zero. Caso a empresa pague a totalidade do valor do plano, o plano de saúde não deve ser informado.
+
+### Reembolso do plano de saúde
+
+Declarar em `Pagamentos Efetuados` com código `10 - Médicos no Brasil`. Informar nome e CPF do prestador de serviço, preencher o valor pago com o valor da consulta e valor reembolsado com o valor de reembolso recebido pelo plano de saúde. 
+
+Caso o reembolso seja feito no ano seguinte à consulta, este deve ser informado em `Rendimentos Tributáveis Recebidos de Pessoas Jurídicas`, com a consulta tendo sido informada na declaração anterior.
