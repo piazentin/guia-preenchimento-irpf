@@ -83,6 +83,20 @@ TODO
 
 TODO
 
+## Fundos de Investimento Imobiliários (FII)
+
+- [Canal do Holder - Guia DEFINITIVO do Imposto de Renda 2019 (com link para guia em PDF)](https://www.youtube.com/watch?v=TtX7R0EsOJ4)
+
+### Bens e Direitos
+
+Os fundos devem ser informados na seção de `Bens e Direitos` com o código `73 - Fundo de Investimento Imobiliário`.
+
+Informar no campo CNPJ o CNPJ do FII em questão - e não o da administradora - e no campo discrimição informar o nome do fundo, o CNPJ do fundo, o nome da administradora, o cnpj da administradora, e a quantidade de cotas.
+
+É possível também incluir a lista de todas as operações de compra/venda realizadas com o fundo nesse campo, da mesma forma feita para as ações.
+
+Em `Situação em 31/12/20XX` (ano atual), calcule o valor atual da mesma forma que se calcula os valores para as ações, ou seja, sobre o preço médio das cotas multiplicado pela quantidade de cotas ou, mais facilmente, somando todas as operações de compra e subtraindo todas as operações de venda do ano mais o total do ano anterior.
+
 ## Renda Fixa
 
 TODO
