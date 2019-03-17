@@ -107,6 +107,12 @@ TODO
 
 ## Plano de Saúde
 
+Links úteis e fontes:
+
+- [UOL - Como declarar reembolso de consulta médica pelo plano de saúde no IR 2015?](https://economia.uol.com.br/imposto-de-renda/duvidas/como-declarar-reembolso-de-consulta-medica-pelo-plano-de-saude-no-ir-2015.htm)
+- [Estadão - Dúvidas IR 2016: Reembolso de despesas médicas e MEI](https://economia.estadao.com.br/blogs/entenda-seu-ir/duvidas-ir-2016-reembolso-de-despesas-medicas-e-mei/)
+- [O Globo - Quando o reembolso ocorre no ano seguinte](https://blogs.oglobo.globo.com/imposto-de-renda/post/quando-o-reembolso-ocorre-no-ano-seguinte.html)
+
 O plano de saúde deve ser informado em `Pagamentos Efetuados` com código `26 - Planos de Saúde no Brasil` com a razão social e o CPNJ da operadora do plano e o valor total pago pelo contribuinte. Caso a empresa pague uma parte do plano, o valor total pago deve ser o total pago pelo contribuinte e o valor reembolsado deve ser zero. Caso a empresa pague a totalidade do valor do plano, o plano de saúde não deve ser informado.
 
 ### Reembolso do plano de saúde
