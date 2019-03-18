@@ -97,6 +97,12 @@ Informar no campo CNPJ o CNPJ do FII em questão - e não o da administradora - 
 
 Em `Situação em 31/12/20XX` (ano atual), calcule o valor atual da mesma forma que se calcula os valores para as ações, ou seja, sobre o preço médio das cotas multiplicado pela quantidade de cotas ou, mais facilmente, somando todas as operações de compra e subtraindo todas as operações de venda do ano mais o total do ano anterior.
 
+### Rendimentos / Proventos
+
+Informar em `Rendimentos Isentos e Não Tributáveis` com código `26 - Outros`. A fonte pagadora pode ser a administradora ou o próprio fundo, é necessário conferir no informe de rendimentos que é recebido por correio.
+
+Informar o CNPJ e o nome da fonte pagadora e em descrição informar `Rendimentos Recebidos do FII NOME DO FII`
+
 ## Renda Fixa
 
 TODO
