@@ -47,7 +47,7 @@ Juros sobre capital próprio são sujeitos a uma alíquota de 15%, mas são reti
 
 Devem ser declarados em `Rendimentos Sujeitos à Tributação Exclusiva/Definitiva` item `10. Juros sobre capital próprio`.
 
-Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o valor recebido (incluindo *creditados e não pagos*).
+Informar para cada companhia / ação: a fonte pagadora (a empresa), o CNPJ, e o valor líquido recebido (incluindo *creditados e não pagos*).
 
 #### Créditos em Trânsito / Creditados e não pagos
 
