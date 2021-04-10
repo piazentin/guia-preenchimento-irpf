@@ -105,11 +105,37 @@ Informar o CNPJ e o nome da fonte pagadora e em descrição informar `Rendimento
 
 ## Renda Fixa
 
-TODO
+Os dados dos títulos de renda fixa são detalhados nos relatórios fornecidos pelas corretoras, baixe o informe de sua corretora constando os valores atualizados para cada título.
+
+### Bens e Direitos
+
+Títulos de Renda Fixa, tais como, CDB, RDB LC, LCA, LCI devem ser declarados em `Bens e Direitos` com o código `45 - Aplicação de renda fixa (CDB, RDB e outros)`.
+
+Informar para cada título: localidade do título (105 - Brasil), o CNPJ da corretora, e na discriminação informar o tipo do título (LC, LCA, CDB, etc), a data de vencimento e o nome da corretora, informar também caso hajam novas aquisições do mesmo título. 
+
+Na situação (R$) do título informar o valor de compra do título. Caso hajam mais compras do mesmo título (de mesmo tipo e vencimento) informar soma total do valor de compra (não utilize o valor "atualizado" com rendimentos).
+Caso o título tenha vencido no ano corrente da declaração informar a situação atual com R$ 0,00. 
+Verifique o valor atual a ser declarado no relatório da corretora.
+
+### Rendimentos
+
+Os rendimentos de títulos de renda fixa devem ser informados em `Rendimentos Sujeitos à Tributação Exclusiva/Definitiva` agrupados por fonte pagadora (por corretora) com o código 06 - Rendimentos de aplicações financeiras. 
+Confira o valor total a ser declarado no relatório da corretora.
 
 ## Tesouro Direto
 
-TODO
+### Bens e Direitos
+
+Tesouro direto deve ser declarado em `Bens e Direitos` com o código `45 - Aplicação de renda fixa (CDB, RDB e outros)`.
+
+Para cada título informar a localização e CPPJ da corretora que mantém a custódia do título, e na discriminação informar o tipo do título (ex. `TITULO PUBLICO - TESOURO DIRETO - LFT `), informar a data de vencimento do título e o nome do agente de custódia (corretora), discriminar também se houveram novas aquisições do título durante o ano corrente da declaração. 
+
+Na situação informar os valores de compra (não informar os valores com rendimentos), consulte o valor a ser declarado no relatório da corretora.
+
+### Rendimentos
+
+Os rendimentos de títulos vencidos devem ser declarados em `Rendimentos Sujeitos à Tributação Exclusiva/Definitiva` agrupados por fonte pagadora (por corretora) com o código 06 - Rendimentos de aplicações financeiras. 
+Consulte o valor a ser declarado no relatório da corretora.
 
 ## Aluguel
 
