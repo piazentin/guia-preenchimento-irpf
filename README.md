@@ -29,7 +29,7 @@ Links úteis e fontes:
 
 Ações são consideradas bens e devem ser informadas em `Bens e Direitos` com o código `31 - Ações`.
 
-Informar para cada companhia / ação: a empresa, o CNPJ, a quantidade de ações que possui e o valor total de custo. Para cada operação realizada no ano, informar também no campo discriminação a quantidade de ações da operação, o tipo de operação (compra ou venda), o valor da operação (incluindo custos de corretagem), e a data da operação.
+Informar para cada companhia / ação: a empresa, o CNPJ, a quantidade de ações que possui e o valor total de custo.
 
 O valor final do bem deve ser o valor anterior mais a soma das operações realizadas no ano. **Não atualize o preço das ações pela sua cotação no último dia do ano. O importante é o valor total pago pelas ações, e não o valor de venda atual!**
 
